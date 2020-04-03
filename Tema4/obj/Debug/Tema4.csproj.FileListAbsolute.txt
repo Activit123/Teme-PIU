@@ -1,0 +1,12 @@
+D:\PIU\Tema4\bin\Debug\Tema2.exe.config
+D:\PIU\Tema4\bin\Debug\Tema2.exe
+D:\PIU\Tema4\bin\Debug\Tema2.pdb
+D:\PIU\Tema4\obj\Debug\Tema4.csprojAssemblyReference.cache
+D:\PIU\Tema4\obj\Debug\Tema2.exe
+D:\PIU\Tema4\obj\Debug\Tema2.pdb
+C:\Users\MihaY\Desktop\New folder (5)\Tema4\obj\Debug\Tema4.csprojAssemblyReference.cache
+C:\Users\MihaY\Desktop\New folder (5)\Tema4\obj\Debug\Tema2.exe
+C:\Users\MihaY\Desktop\New folder (5)\Tema4\obj\Debug\Tema2.pdb
+C:\Users\MihaY\Desktop\New folder (5)\Tema4\bin\Debug\Tema2.exe.config
+C:\Users\MihaY\Desktop\New folder (5)\Tema4\bin\Debug\Tema2.exe
+C:\Users\MihaY\Desktop\New folder (5)\Tema4\bin\Debug\Tema2.pdb

@@ -1,0 +1,6 @@
+D:\PIU\Tema3\bin\Debug\Tema2.exe.config
+D:\PIU\Tema3\bin\Debug\Tema2.exe
+D:\PIU\Tema3\bin\Debug\Tema2.pdb
+D:\PIU\Tema3\obj\Debug\Tema3.csprojAssemblyReference.cache
+D:\PIU\Tema3\obj\Debug\Tema2.exe
+D:\PIU\Tema3\obj\Debug\Tema2.pdb
